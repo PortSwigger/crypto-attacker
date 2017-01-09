@@ -1,0 +1,10 @@
+Uuid: eaf6bdff2fbe4fd59e15661cdc9e1957
+ExtensionType: 2
+Name: Crypto Attacker
+ScreenVersion: 0.01
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: True
+Author:  Rich Lundeen
+ShortDescription: Helps detect and exploit some common crypto flaws.
+EntryPoint: burp/cryptoAttack/cryptoAttack.py
