@@ -1,6 +1,7 @@
 Uuid: eaf6bdff2fbe4fd59e15661cdc9e1957
 ExtensionType: 2
 Name: Crypto Attacker
+RepoName: crypto-attacker
 ScreenVersion: 0.01
 SerialVersion: 2
 MinPlatformVersion: 0
